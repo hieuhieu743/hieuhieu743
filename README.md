@@ -12,8 +12,7 @@
 
 ## **Profile Visits**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hieuhieu743.hieuhieu743&left_color=grey&right_color=green)
-                
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hieuhieu743.hieuhieu743&left_color=grey&right_color=green)             
 
 ## **Language and Tools**
 
@@ -37,4 +36,4 @@
 <br />
 
 ## **GitHub Stats**
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=hieuhieu743&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Hieu's github stats](https://github-readme-stats.vercel.app/api?username=hieuhieu743&count_private=true&theme=tokyonight&hide=contribs,prs)
