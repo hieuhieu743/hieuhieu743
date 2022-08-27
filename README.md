@@ -2,7 +2,7 @@
 
 📫 Reach me at:
 
-[![Twitter Badge](https://img.shields.io/badge/-@hieuhieu743-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/hieuhieu743) [![Youtube Badge](https://img.shields.io/badge/-HiE_Studio-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UChiEv-Bp-48hq7FkDOUe65w) [![Mail Badge](https://img.shields.io/badge/-hieuhieu743.HiEStudio-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hieuhieu743.HiEStudio@gmail.com) [![GitHub Badge](https://img.shields.io/badge/-@hieuhieu743-white?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/hieuhieu743)
+[![Twitter Badge](https://img.shields.io/badge/-@hieuhieu743-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/hieuhieu743) [![Youtube Badge](https://img.shields.io/badge/-HiE_Studio-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/channel/UChiEv-Bp-48hq7FkDOUe65w) [![GitHub Badge](https://img.shields.io/badge/-@hieuhieu743-white?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/hieuhieu743)
 
 - 👀 I’m interested in: **AI, Website, API and more...**
 - 🌱 I’m currently learning: **[Lua](https://www.lua.org/), [HTML](https://html.spec.whatwg.org/), [Javascript](https://www.javascript.com/), ...etc**
